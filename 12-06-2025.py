@@ -27,7 +27,7 @@ car_options = {
 }
 
 # Streamlit UI
-st.title("Malaysia Lifestyle & Car Recommendation App")
+st.title("Malaysia Lifestyle & Car Recommendation App for Youngsters")
 
 # Step 1: User Inputs
 location = st.selectbox("Select your location:", data["Location"].unique())
