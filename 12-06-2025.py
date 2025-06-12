@@ -7,7 +7,7 @@ from sklearn.linear_model import LinearRegression
 data = pd.DataFrame({
     "Location": ["Kuala Lumpur", "Penang", "Selangor", "Johor", "Sarawak"],
     "Average Monthly Cost (RM)": [6000, 4500, 5000, 4800, 4000],
-    "Household Size": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    "Household Size": [1, 2, 3, 4, 5],
     "Salary Numeric": [2000, 5000, 10000, 15000, 20000],
     "Income Group": ["B40", "M40", "T20", "T15", "T5"]
 })
