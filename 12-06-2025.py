@@ -28,7 +28,7 @@ model = LinearRegression()
 model.fit(X, y)
 
 # Streamlit UI
-st.title("Malaysia Lifestyle & Car Recommendation App 🚗💰")
+st.title("Stresformance Identification Apps 🚗💰")
 st.markdown ("by Norasibah Abdul Jalil")
 
 # Step 1: User Inputs
