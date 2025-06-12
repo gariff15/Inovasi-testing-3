@@ -29,6 +29,7 @@ model.fit(X, y)
 
 # Streamlit UI
 st.title("Malaysia Lifestyle & Car Recommendation App 🚗💰")
+st.title ("by Norasibah Abdul Jalil")
 
 # Step 1: User Inputs
 location = st.selectbox("📍 Select your location:", data["Location"].unique())
